@@ -942,7 +942,7 @@ Bulid过程可以分解为4个步骤:预处理(Prepressing), 编译(Compilation)
 
 乐观锁：假设不会发生并发冲突，只在提交操作时检查是否违反数据完整性。
 
-乐观锁与悲观锁的具体区别: http://www.cnblogs.com/Bob-FD/p/3352216.html
+乐观锁与悲观锁的具体区别: 
 
 ## 5 MVCC
 
