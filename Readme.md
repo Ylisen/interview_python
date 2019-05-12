@@ -976,8 +976,8 @@ MyISAM 适合于一些需要大量查询的应用，但其对于有大量写操�
 
 InnoDB 的趋势会是一个非常复杂的存储引擎，对于一些小的应用，它会比 MyISAM 还慢。他是它支持“行锁” ，于是在写操作比较多的时候，会更优秀。并且，他还支持更多的高级应用，比如：事务。
 
-mysql 数据库引擎: http://www.cnblogs.com/0201zcr/p/5296843.html
-MySQL存储引擎－－MyISAM与InnoDB区别: https://segmentfault.com/a/1190000008227211
+mysql 数据库引擎: http://www.cnblogs.com/0201zcr/p/5296843.html       
+MySQL存储引擎－－MyISAM与InnoDB区别: https://segmentfault.com/a/1190000008227211     
 
 # 网络
 
